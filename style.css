@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(0, 0, 57);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 130px;
+}
+button{
+    height: 50px;
+    width: 200px;
+    background-color: brown;
+    font-size: 20px;
+    font-weight: 400;
+    color: azure;
+    border-radius: 15px;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border: none;
+    border-radius: 15px;
+}
